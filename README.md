@@ -1,7 +1,6 @@
 # Slides for NLP Research
 
 Here I provide summary slides for NLP Research & Technologies.
-
 All slides are written in Japanese.
 
 
